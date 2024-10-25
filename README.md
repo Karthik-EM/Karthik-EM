@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning CSE
 - 📫 How to reach me karthikemail@gmail.com
 - ⚡ Fun fact: Just a beginner :)
+- 
 [![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthik-EM)](https://github.com/Karthik-EM/github-readme-stats)
 <!---
 Karthik-EM/Karthik-EM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
