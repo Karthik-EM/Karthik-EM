@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Karthik-EM
-- 🌱 I’m currently learning CSE
+- 👋 Hi, I’m @Karthik-EM,just a random person on earth 🌏
+- Loves computers 💻  hate bugs![ScrollingThroughErrorsGIF](https://github.com/user-attachments/assets/a5d35238-b6a2-4dab-a8ec-f91314b11cd3)
+
 - 📫 How to reach me karthikemail@gmail.com
 - ⚡ Fun fact: Just a beginner :)
 
