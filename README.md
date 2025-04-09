@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karthik-EM,just a random person on earth 🌏
+- 👋 Hi, I’m Karthik-EM,just a random person on earth 🌏
 - Loves computers 💻 hate bugs 
 - 📫 How to reach me karthikemail@gmail.com
 
