@@ -1,4 +1,4 @@
-- 👋 Hi,I’m Karthik-EM,a final year cse student
+- 👋 Hi,I’m Karthik,a final year cse student
 - Loves computers 💻 hate bugs 
 - 📫 How to reach me karthikemmail@gmail.com
 - 🖥️ https://karthik-em.github.io/WEBSITE/
