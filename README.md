@@ -2,7 +2,6 @@
 
 A random dev on the internet with a love for **backend systems** and **IoT**. <br>
 
-🔭 Currently building: [Joli Evide? 🚀](https://jolievide.vercel.app/jobs)
 
 ### Connect
 [![Website](https://img.shields.io/badge/Portfolio-151515?style=flat-square&logo=googlechrome&logoColor=white)](https://karthik-em.github.io/WEBSITE/)
